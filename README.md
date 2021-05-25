@@ -19,13 +19,13 @@ I was in charge of the role below.
 ----
 # Scenario image
 
-![imgs/img.png](imgs/img.png)
-![imgs/img_1.png](imgs/img_1.png)
+![image/img.png](image/img.png)
+![image/img_1.png](image/img_1.png)
 
 ---
 # Work flow
-![imgs/img_2.png](imgs/img_2.png)
-![imgs/img_3.png](imgs/img_3.png)
+![image/img_2.png](image/img_2.png)
+![image/img_3.png](image/img_3.png)
 
 ---
 # Video
